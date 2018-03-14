@@ -92,23 +92,16 @@ library(microbiomeutilities)
 ```
 
 When you do your own analysis, create a new project in [RStudio](https://www.youtube.com/watch?v=pyJMWlDptYw).  
+If you have the mapping file in .txt format then open it in excel and save it as CSV(comma delimited) ".csv". Also good to renames samples column from "#SampleID" to "SampleID". Remove the # sign. Do not keep any special characters like #,$ and also spaces etc. use underscore "_" to seperate two words for eg. SampleID can also be written as Sample_ID.   
 
-If you have downloaded this repository, open the .Rproj and follow the step outlines below.    
-**Kindly read the "README.txt" file** given in the information folder.    
+If you have downloaded this repository, open the .Rproj and follow the step outlined below. 
 
-**remember the path in windows is given as "\" however for R it has to be changed to "/". **
+Open the **Microbiome_tutorial_V2.rmd** in RStudio and run run the code chunks one by one and analyse.
+
+**Remember the path in windows is given as "\" however for R it has to be changed to "/". **
 
 When you are working on your own data kindly check that:  
 
-If you have the mapping file in .txt format then open it in excel and save it as CSV(comma delimited) ".csv". Also good to renames samples column from "#SampleID" to "SampleID". Remove the # sign. Do not keep any special characters like #,$ and also spaces etc. use underscore "_" to seperate two words for eg. SampleID can also be written as Sample_ID.      
-
-```{r}
-
-# Set plotting theme
-# This will determine the overall look of your plots. Other themes are available in the ggplot2 package
-theme_set(theme_bw())
-
-```
 
 # Making a phyloseq object
 

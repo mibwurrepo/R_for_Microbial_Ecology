@@ -1,0 +1,48 @@
+
+---
+title: "Tutorials for microbiome analysis"
+author: "MolEco groups WUR"
+date: "`r Sys.Date()`"
+output:
+  rmdformats::readthedown:
+    self_contained: true
+    thumbnails: true
+    lightbox: true
+    gallery: true
+    use_bookdown: false
+    highlight: haddock
+---
+
+## About   
+
+**The Laboratory of Microbiology** at Wageningen University and Research is engaged in research and education in biotransformations and interactions of microorganisms as well as their control. Moreover, it contributes to the exploitation of the generated knowledge in the application areas of Health & Food, Bioproducts & Energy and Environment & Sustainability.  
+
+The website is focused towards open data and reproducibility as more and more of our research employes bioinformatics workflows. This website will host teaching/workshop materials, tutorials, codes and data used in various publications, etc.  
+
+For more information visit our university website:  
+
+* [Laboratory of Microbiology](https://www.wur.nl/en/Expertise-Services/Chair-groups/Agrotechnology-and-Food-Sciences/Laboratory-of-Microbiology.htm)  
+
+* [Memebrs of Laboratory of Microbiology](https://www.wur.nl/en/Expertise-Services/Chair-groups/Agrotechnology-and-Food-Sciences/Laboratory-of-Microbiology/People.htm)   
+
+* [Research at Laboratory of Microbiology](https://www.wur.nl/en/Expertise-Services/Chair-groups/Agrotechnology-and-Food-Sciences/Laboratory-of-Microbiology/Research.htm)  
+
+* [Research at Laboratory of Microbiology- Molecular Ecology](https://www.wur.nl/en/Expertise-Services/Chair-groups/Agrotechnology-and-Food-Sciences/Laboratory-of-Microbiology/Research/Molecular-Ecology.htm)  
+
+
+
+
+
+
+## Tutorials
+
+
+*This website is under active development. NO warranty for any damages is given by the developers of this webpage. Content can change anytime without prior notice.*
+
+* [Microbiome Anlaysis Tutorial](Microbiome_tutorial_V2.html)   
+* [Paper 1](maybe add reproducible docs from individual projects)  
+* [Paper 2]()  
+* [Paper ..]()  
+
+
+
